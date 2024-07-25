@@ -1,0 +1,50 @@
+.mainBox{
+    width: 100%;
+    /* background-color: aquamarine; */
+    padding: 10px 120px;
+}
+
+.box{
+    padding: 50px;
+    width: 100%;
+}
+
+.PostTitle{
+    width: 96%;
+    height: 60px;  
+    font-size: 25px;
+    padding: 0px 20px; 
+    font-weight: 600;
+}
+
+.PostDis{
+    width: 100%;
+    font-size: 25px !important;
+    padding: 0px 20px; 
+    font-weight: 600;
+}
+
+.postBtn{
+    width: 60%;
+    height: 50px;
+    font-size: 20px;
+    background-color: var(---blueColor);
+}
+
+.UploadCoverImage{
+    object-fit: cover;
+    width: 600px;
+    height: 400px;
+    background-color: rgb(178, 182, 255);
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.UploadButton{
+    /* background-color: aliceblue; */
+    width: 100%;
+    
+}
